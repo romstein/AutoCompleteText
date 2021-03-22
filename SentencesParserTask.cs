@@ -9,7 +9,7 @@ namespace TextAnalysis
         {
             var sentencesList = new List<List<string>>();
             var sb = new StringBuilder();
-
+            //comment
             return sentencesList;
         }
     }
